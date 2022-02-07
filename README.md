@@ -19,7 +19,7 @@ __2. Data Understanding__
 -----------------------------------------------------------------------------------------------------------------------
 1.
 ### Objective
-- Find The Best classification Model and Model hyperparameters  for such a dataset (e.g. in terms of performance, time)
+- Find the best Classification model and model hyperparameters for a such a dataset (e.g. in terms of performance, time)
 
 - To detect early warning AE signals and assess possible safety concerns for a given vaccine, which may generate hypotheses and prompt further investigations.
 
