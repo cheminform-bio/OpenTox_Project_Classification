@@ -41,7 +41,7 @@ Levels of Analysis: Stats, Visualization
 
 -----
 
-__Part 1--Basic highlights__: 
+__Part 1--Basic analysis__: 
  
 At a glance: categorical values|| missing values; what is the best imputation method?
 
