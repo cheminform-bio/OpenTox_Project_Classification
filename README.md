@@ -19,9 +19,9 @@ __2. Data Understanding__
 -----------------------------------------------------------------------------------------------------------------------
 1.
 ### Objective
-- Find Best Model and Model Metrics for such a dataset (e.g. in terms of performance)
+- Find The Best classification Model and Model hyperparameters  for such a dataset (e.g. in terms of performance, time)
 
-- To detect signals of possible vaccine adverse events, which may generate hypotheses and prompt further investigations.
+- To detect early warning AE signals and assess possible safety concerns for a given vaccine, which may generate hypotheses and prompt further investigations.
 
 ### Description
 - what is `VAERS`?
