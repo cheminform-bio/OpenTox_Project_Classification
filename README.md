@@ -32,3 +32,34 @@ __2. Data Understanding__
 
 - How we can make use of this data?
   - "VAERS reports alone cannot be used to determine if a vaccine caused or contributed to an adverse event or illness"(does       not infer causality) source: (https://wonder.cdc.gov/wonder/help/vaers.html)
+  ---------------------------------------------------------------------------------------------------------------------------------------
+  
+  2.2. Exploratory Data Analysis Framework: 
+----------------------------------------------------------
+
+__Levels of Analysis: Stats, Visualization__
+
+--------------------------------------------------------------------------------
+
+__Part 1--Basic highlights__: 
+ 
+At a glance: categorical values|| missing values; what is the best imputation method?
+
+   - Death 
+    > - Death counts vs vaccination doses counts in 2020 and 2021. 
+    > - Death by vaccine manufacture and vaccine lots. 
+    > - Death and Recovery counts by each State. 
+
+   - based on  gender, ageGroup, vaccine brand and vaccine lot: 
+    > - Hospitalization, Emergency visit, life threatening, disability, prolonged hospitalized days
+    > - Rare but high risk health conditions attributed to the vax administration.    
+
+
+__Part 2--Correlation signals__:  
+   - Status of the vaccine recipients
+     (ageGroup, gender, medical history, current illnes, current medication, allergy) with:
+
+   > - Recovery outcomes:(yes, no) after Vaccine administration
+   > - Serious outcomes after the administration each vaccine: (yes, no)
+        (Death, life threatening, disability, emergency visit, prolonged hospitalized days)
+
