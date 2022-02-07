@@ -58,10 +58,11 @@ At a glance: categorical values|| missing values; what is the best imputation me
 
 __Part 2--Correlation signals__:  
 
-   - Status of the vaccine recipients
-     (ageGroup, gender, medical history, current illnes, current medication, allergy) with:
+   - Status of the vaccine recipients;
+     (ageGroup, gender, medical history, current illnes, current medication, allergy) 
+     - with:
 
    > - Recovery outcomes:(yes, no) after Vaccine administration
    > - Serious outcomes after the administration each vaccine: (yes, no)
-        (Death, life threatening, disability, emergency visit, prolonged hospitalized days)
+      (Death, life threatening, disability, emergency visit, prolonged hospitalized days)
 
