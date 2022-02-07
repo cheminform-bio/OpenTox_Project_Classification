@@ -33,12 +33,13 @@ __2. Data Understanding__
 - How we can make use of this data?
   - "VAERS reports alone cannot be used to determine if a vaccine caused or contributed to an adverse event or illness"(does       not infer causality) source: (https://wonder.cdc.gov/wonder/help/vaers.html)
   
-  
+------------------------------------------------
+
 ### 2.2. __Exploratory Data Analysis Framework:__ 
 
 Levels of Analysis: Stats, Visualization
 
-------------------------------------------------
+-----
 
 __Part 1--Basic highlights__: 
  
