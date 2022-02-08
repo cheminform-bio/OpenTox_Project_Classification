@@ -13,7 +13,7 @@ __2. Data Understanding__
 > - Categorical data: high and low cardinality
 
 - 2.2. Exploratory Data Analysis
-> - Feature Engineering (Binning, Encoding)
+> - Feature Engineering (binning, encoding)
 > - Statistical summaries and visualisations
 > - Features correlation
 -----------------------------------------------------------------------------------------------------------------------
