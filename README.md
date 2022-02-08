@@ -47,23 +47,25 @@ Levels of Analysis: Stats, Visualization
 
 #### Part 1. Basic analysis: 
  
-At a glance: categorical values|| missing values; what is the best imputation method?
+- At a glance: categorical values || missing values; what is the best imputation method?
 
-   - Death 
+- Feautres Distribution
+
+   - Post-covid19-vaccination Deaths by
    
-    > - Death counts vs vaccination doses counts in 2020 and 2021. 
-    > - Death by vaccine manufacture and vaccine lots. 
-    > - Death and Recovery counts by each State. 
+    > - Vaccination doses counts in 2020 and 2021. 
+    > - Vaccine manufacture and vaccine lots. 
+    > - Recovery counts by each State. 
 
-   - Feautres Distribution:
-     (by gender, ageGroup, vaccine brand and vaccine lot) 
+   
+   - Gender, ageGroup, vaccine brand and vaccine lot distribution in 
    
     > - Hospitalization, Emergency visit, life threatening, disability, prolonged hospitalized days
     > - Myocarditis/Pericarditis, Guillain–Barré Syndrome, Thrombosis with Thrombocytopenia Syndrome (TTS) 
         (Rare but high risk health conditions attributed to the vax administration.)    
 
 
-####  Part 2. Correlation signals:
+####  Part 2. Correlation signals: Does the population health status play a significant role in post-vaccine AE or recovery?
 
    __status of the vaccine recipients__:
      (ageGroup, gender, medical history, current illnes, current medication, allergy)
