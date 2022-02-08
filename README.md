@@ -41,7 +41,7 @@ Levels of Analysis: Stats, Visualization
 
 -----
 
-__Part 1--Basic analysis__: 
+#### Part 1. Basic analysis: 
  
 At a glance: categorical values|| missing values; what is the best imputation method?
 
@@ -51,13 +51,15 @@ At a glance: categorical values|| missing values; what is the best imputation me
     > - Death by vaccine manufacture and vaccine lots. 
     > - Death and Recovery counts by each State. 
 
-   - based on  gender, ageGroup, vaccine brand and vaccine lot: 
+   - Feautres Distribution:
+     (by gender, ageGroup, vaccine brand and vaccine lot) 
    
     > - Hospitalization, Emergency visit, life threatening, disability, prolonged hospitalized days
-    > - Rare but high risk health conditions attributed to the vax administration.    
+    > - Myocarditis/Pericarditis, Guillain–Barré Syndrome, Thrombosis with Thrombocytopenia Syndrome (TTS) 
+        (Rare but high risk health conditions attributed to the vax administration.)    
 
 
-###  Part 2. Correlation signals:
+####  Part 2. Correlation signals:
 
    __status of the vaccine recipients__:
      (ageGroup, gender, medical history, current illnes, current medication, allergy)
@@ -65,6 +67,6 @@ At a glance: categorical values|| missing values; what is the best imputation me
      __with__:
 
    > - __Recovery outcomes:__ (yes, no) after Vaccine administration
-   > - __Serious outcomes__ after the administration each vaccine: (yes, no)
+   > - __Serious outcomes:__ (yes, no) after Vaccine administration
         (Death, life threatening, disability, emergency visit, prolonged hospitalized days)
 
