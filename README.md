@@ -65,7 +65,9 @@ Levels of Analysis: Stats, Visualization
         (Rare but high risk health conditions attributed to the vax administration.)    
 
 
-####  Part 2. Correlation signals: Does the population health status play a significant role in post-vaccine AE or recovery?
+####  Part 2. Correlation signals: 
+
+__Q. Does the population health status play a significant role in post-vaccine AE or recovery?
 
    __status of the vaccine recipients__:
      (ageGroup, gender, medical history, current illnes, current medication, allergy)
