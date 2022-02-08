@@ -69,7 +69,7 @@ Levels of Analysis: Stats, Visualization
 
 __Q. Does the population-health status play a significant role in having post-vaccine AE or getting recoverd?
 
-   __status of the vaccine recipients__:
+   - status of the vaccine recipients:
      (ageGroup, gender, medical history, current illnes, current medication, allergy)
      
      __with__:
