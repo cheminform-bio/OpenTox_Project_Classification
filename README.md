@@ -16,6 +16,10 @@ __2. Data Understanding__
 > - Feature Engineering (binning, encoding)
 > - Statistical summaries and visualisations
 > - Features correlation
+
+__3. Predictive Modeling__ 
+> - Classification methods: (Logistic Regression, SVM, Knn, Ensemble methods: RF, Boosting and Stacking)
+
 -----------------------------------------------------------------------------------------------------------------------
 1.
 ### Objective
