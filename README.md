@@ -57,13 +57,14 @@ At a glance: categorical values|| missing values; what is the best imputation me
     > - Rare but high risk health conditions attributed to the vax administration.    
 
 
-__Part 2--Correlation signals__:  
+###  Part 2. Correlation signals:
 
-   - Status of the vaccine recipients;
-     (ageGroup, gender, medical history, current illnes, current medication, allergy) 
-     - with:
+   __status of the vaccine recipients__:
+     (ageGroup, gender, medical history, current illnes, current medication, allergy)
+     
+     __with__:
 
-   > - Recovery outcomes:(yes, no) after Vaccine administration
-   > - Serious outcomes after the administration each vaccine: (yes, no)
-      (Death, life threatening, disability, emergency visit, prolonged hospitalized days)
+   > - __Recovery outcomes:__ (yes, no) after Vaccine administration
+   > - __Serious outcomes__ after the administration each vaccine: (yes, no)
+        (Death, life threatening, disability, emergency visit, prolonged hospitalized days)
 
