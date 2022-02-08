@@ -67,7 +67,7 @@ Levels of Analysis: Stats, Visualization
 
 ####  Part 2. Correlation signals: 
 
-__Q. Does the population health status play a significant role in post-vaccine AE or recovery?
+__Q. Does the population-health status play a significant role in having post-vaccine AE or getting recoverd?
 
    __status of the vaccine recipients__:
      (ageGroup, gender, medical history, current illnes, current medication, allergy)
