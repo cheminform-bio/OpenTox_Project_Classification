@@ -18,7 +18,11 @@ __2. Data Understanding__
 > - Features correlation
 
 __3. Predictive Modeling__ 
-> - Classification methods: Logistic Regression, SVM, Knn, Ensemble methods: RF, Boosting and Stacking
+ - Classification models: 
+  > - Logistic Regression, 
+  > - Support Vector Machine (SVM), 
+  > - K-nearest Neaighbors (Knn), 
+  > - Ensemble methods: Random Forest (RF), Extra Trees (ET) Boosting and Stacking
 
 -----------------------------------------------------------------------------------------------------------------------
 1.
