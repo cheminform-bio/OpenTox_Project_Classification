@@ -24,6 +24,12 @@ __3. Predictive Modeling__
   > - K-nearest Neaighbors (Knn), 
   > - Ensemble methods: Random Forest (RF), Extra Trees (ET) Boosting and Stacking
 
+- Models Validation:
+ > - GridSearch Cross-Validation
+ 
+- Models Evaluation:
+ > - Error metrics: Accuracy, Precision, Recall, F-score, Confusion Matrix
+
 -----------------------------------------------------------------------------------------------------------------------
 1.
 ### Objective
