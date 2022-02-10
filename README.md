@@ -19,10 +19,13 @@ __2. Data Understanding__
 
 __3. Predictive Modeling__ 
  - Classification models: 
-  > - Logistic Regression, 
+  > - Logistic Regression (LR), 
   > - Support Vector Machine (SVM), 
   > - K-nearest Neaighbors (Knn), 
-  > - Ensemble methods: Random Forest (RF), Extra Trees (ET) Boosting and Stacking
+  > - Ensemble methods: 
+           -- Random Forest (RF), Extra Trees (ET) 
+           -- Boosting: AdaBoost (AB), Gradient Boost (XGB)
+           -- Stacking: Decision Tree (DT) + AdaBoost (AB)
 
 - Models Validation:
  > - GridSearch Cross-Validation
