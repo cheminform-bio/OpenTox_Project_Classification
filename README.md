@@ -37,7 +37,7 @@ __3. Predictive Modeling__
 -----------------------------------------------------------------------------------------------------------------------
 1.
 ### Objective
-- Find the best Classification model and model hyperparameters for a such a dataset (e.g. in terms of performance, time)
+- Find the best Classification model and model hyperparameters to predict post-vaccine recovery (e.g. in terms of performance, time)
 
 - To detect early warning AE signals and assess possible safety concerns for a given vaccine, which may generate hypotheses and prompt further investigations.
 
