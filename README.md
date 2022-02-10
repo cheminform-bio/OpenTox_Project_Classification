@@ -23,10 +23,9 @@ __3. Predictive Modeling__
   > - Support Vector Machine (SVM), 
   > - K-nearest Neaighbors (Knn), 
   > - Ensemble methods: 
-  
-          > - Random Forest (RF), Extra Trees (ET) 
-          > - Boosting: AdaBoost (AB), Gradient Boost (XGB)
-          > - Stacking: Decision Tree (DT) + AdaBoost (AB)
+          . Random Forest (RF), Extra Trees (ET) 
+          . Boosting: AdaBoost (AB), Gradient Boost (XGB)
+          . Stacking: Decision Tree (DT) + AdaBoost (AB)
 
 - Models Validation:
  > - GridSearch Cross-Validation
