@@ -25,7 +25,7 @@ __3. Predictive Modeling__
   > - Ensemble methods: 
   > 
           . Random Forest (RF), Extra Trees (ET) 
-          . Boosting: AdaBoost (AB), Gradient Boost (XGB)
+          . Boosting: AdaBoost (AB), Extreme Gradient Boost (XGB)
           . Stacking: Decision Tree (DT) + AdaBoost (AB)
 
 - Models Validation:
@@ -34,6 +34,11 @@ __3. Predictive Modeling__
 - Models Evaluation:
  > - Error metrics: Accuracy, Precision, Recall, F-score, Confusion Matrix
 
+__4. Conclusion__
+
+- Best model in terms of performance and runtime
+- Alternative model
+- Model Flaws
 -----------------------------------------------------------------------------------------------------------------------
 1.
 ### Objective
@@ -91,4 +96,13 @@ __Q. Does the population-health status play a significant role in having post-va
    > - __Recovery outcomes:__ (yes, no) after Vaccine administration
    > - __Serious outcomes:__ (yes, no) after Vaccine administration
         (Death, life threatening, disability, emergency visit, prolonged hospitalized days)
+-------------------------------------------------------
 
+__4. Conclusion__
+
+- `RF` classifier was proposed as the best model in terms of performance and runtime
+- `XGB` as an alternative model
+> - Model Flaws:
+  >> - Create different featured engineered variables from independent variables, that may improve correlation with the dependent variable and see if it helps in improving model performance and feature importance.
+  >> - Keep iterating with subsample, learning rate and estimators for the `stacking model to further improve the results
+  >> - Explore the database updates, more data will definitely help in improving the prediction outcome.
