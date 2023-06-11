@@ -1,4 +1,4 @@
-# VAERS
+# VAERS | Classification Problem
 __1. Project Understanding__ 
 - Objective
 - Description
